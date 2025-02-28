@@ -1,0 +1,1 @@
+print("Hello dosto this is the game of data")
